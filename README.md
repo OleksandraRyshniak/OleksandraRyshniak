@@ -41,5 +41,4 @@ This profile contains my academic projects, personal work, and programming exerc
 ## Contact
 - **Email:** [oleksandraryshniak@gmail.com](mailto:oleksandraryshniak@gmail.com)
 - **Website:** [Personal Website](https://oleksandraryshniak24.thkit.ee/wp1/)
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/oleksandra-ryshniak-44319833b)
-
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/oleksandra-ryshniak-44319833b/)
